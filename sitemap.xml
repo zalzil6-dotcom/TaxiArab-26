@@ -1,93 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://taxiarab.com/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://taxiarab.com/سائق-عربي-في-لندن</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
+
+  <!-- Arabic Homepage (Your Main Page) -->
   <url>
     <loc>https://taxiarab.com/ar/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+
+  <!-- Arabic Main Guide -->
   <url>
-    <loc>https://taxiarab.com/#quote</loc>
-    <lastmod>2026-07-07</lastmod>
+    <loc>https://taxiarab.com/arabic-driver-london.html</loc>
+    <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
+  <!-- Arabic Airport Transfer -->
   <url>
-    <loc>https://taxiarab.com/ar/#quote</loc>
-    <lastmod>2026-07-07</lastmod>
+    <loc>https://taxiarab.com/airport-transfer.html</loc>
+    <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
+  <!-- Shopping Tours (create this page next) -->
   <url>
-    <loc>https://taxiarab.com/#pricing</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://taxiarab.com/ar/#pricing</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://taxiarab.com/#faq</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://taxiarab.com/ar/#faq</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://taxiarab.com/#airport</loc>
-    <lastmod>2026-07-07</lastmod>
+    <loc>https://taxiarab.com/shopping-tours.html</loc>
+    <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <!-- Theme Parks (create this page next) -->
   <url>
-    <loc>https://taxiarab.com/#shopping</loc>
-    <lastmod>2026-07-07</lastmod>
+    <loc>https://taxiarab.com/theme-parks.html</loc>
+    <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <!-- Custom Tours (create this page next) -->
   <url>
-    <loc>https://taxiarab.com/#tours</loc>
-    <lastmod>2026-07-07</lastmod>
+    <loc>https://taxiarab.com/tours-london.html</loc>
+    <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://taxiarab.com/ar/#airport</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://taxiarab.com/ar/#shopping</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://taxiarab.com/ar/#tours</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+
 </urlset>
